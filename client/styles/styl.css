@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.fs10 {
+  font-size: 10px;
+}
+
+input[type=checkbox] {
+  position: relative;
+  vertical-align: middle;
+  bottom: 0px;
+}

@@ -1,0 +1,6 @@
+{
+  "externalify": "0.1.0",
+  "redux": "3.0.2",
+  "react-redux": "3.0.1",
+  "react-tap-event-plugin": "0.1.7"
+}

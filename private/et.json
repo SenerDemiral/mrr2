@@ -1,0 +1,22 @@
+[
+	{
+		"_id":	"kbp",
+		"ad":		"Kebap"
+	},
+	{
+		"_id":	"dnr",
+		"ad":		"Döner"
+	},
+	{
+		"_id":	"hmb",
+		"ad":		"Hamburger"
+	},
+	{
+		"_id":	"tst",
+		"ad":		"Tost/Sandviç"
+	},
+	{
+		"_id":	"msr",
+		"ad":		"Meşrubat"
+	},
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"_id":		"mgl_bdr_gmb_lztDnr",
+		"ad":			"Gümbet Lezzet Döner",
+		"tel":		"111-1111",
+		"adres":	"Gümbet",
+		"bBBid":	"mgl_bdr_gmb",
+		"sBBids":	["mgl_bdr_gmb","mgl_bdr_knc", "mgl_bdr_cvs"],
+		"DTids":	["Kebap"]
+	},
+	{
+		"_id":		"mgl_bdr_gmb_vtmnBar",
+		"ad":			"Gümbet Vitamin Bar",
+		"tel":		"222-2222",
+		"adres":	"Gümbet",
+		"bBBid":	"mgl_bdr_gmb",
+		"sBBids":	["mgl_bdr_gmb","mgl_bdr_knc", "mgl_bdr_cvs"],
+		"DTids":	["VitaminBar"]
+	}
+]

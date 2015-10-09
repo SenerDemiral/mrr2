@@ -1,0 +1,172 @@
+[
+	{	"_id":	"mgl_bdr_gmb_lztDnr_iskndr",
+		"ad":		"İskender",
+		"tur": "Kebap",
+		"img":	"mgl_bdr_gmb_lztDnr_iskndr",
+		"txt":	"",
+		"varmi": true,
+		"icn": 	[
+			{	"ad":"Tuz", 			"fyt": 0, "varmi": true },
+			{	"ad":"Sos", 			"fyt": 0, "varmi": true },
+			{	"ad":"Tereyağı", 	"fyt": 0, "varmi": true },
+			{	"ad":"Biber", 		"fyt": 0, "varmi": true },
+			{	"ad":"Domates", 	"fyt": 0, "varmi": true },
+			{	"ad":"Chips", 		"fyt": 0, "varmi": true },
+			{	"ad":"Turşu", 		"fyt": 0, "varmi": true },
+			{	"ad":"Pirinç pilavı",	"fyt": 0, "varmi": false },
+			{	"ad":"Bulgur pilavı",	"fyt": 0, "varmi": true }
+		],
+		"sec":	[
+			{	"idx": 1,
+				"varmi": true,
+				"fyt": 6.5,
+				"cst": ["Porsiyon", "1"]
+			},
+			{	"idx": 2,
+				"varmi": true,
+				"fyt": 8.5,
+				"cst": ["Porsiyon", "1.5"]
+			}
+		]
+	},
+	{	"_id":	"mgl_bdr_gmb_lztDnr_etDnr",
+		"ad":		"Et Döner",
+		"tur": "Kebap",
+		"img":	"mgl_bdr_gmb_lztDnr_etDnr",
+		"txt":	"",
+		"varmi": true,
+		"icn": 	[
+			{	"ad":"Tuz", 			"fyt": 0, "varmi": true },
+			{	"ad":"Ketçap", 		"fyt": 0, "varmi": true },
+			{	"ad":"Mayonez", 	"fyt": 0, "varmi": true },
+			{	"ad":"Domates", 	"fyt": 0, "varmi": true },
+			{	"ad":"Soğan", 		"fyt": 0, "varmi": true },
+			{	"ad":"Chips", 		"fyt": 0, "varmi": true },
+			{	"ad":"Marul", 		"fyt": 0, "varmi": false },
+			{	"ad":"Turşu", 		"fyt": 0, "varmi": true },
+			{	"ad":"Salatalık",	"fyt": 0, "varmi": false }
+		],
+		"sec":	[
+			{	"idx": 1,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Gobit", "1"]
+			},
+			{	"idx": 2,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Lavaş", "1"]
+			},
+			{	"idx": 3,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Çeyrek"]
+			},
+			{	"idx": 4,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Yarım"]
+			},
+			{	"idx": 5,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Üç Çeyrek"]
+			},
+			{	"idx": 6,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Tüm"]
+			}
+		]
+	},
+	{	"_id":	"mgl_bdr_gmb_vtmnBar_tvkDnr",
+		"ad":		"Tavuk Döner",
+		"tur": "Kebap",
+		"img":	"mgl_bdr_gmb_lztDnr_tvkDnr",
+		"txt":	"",
+		"varmi": true,
+		"icn": 	[
+			{	"ad":"Tuz", 			"fyt": 0, "varmi": true },
+			{	"ad":"Ketçap", 		"fyt": 0, "varmi": false },
+			{	"ad":"Mayonez", 	"fyt": 0, "varmi": false },
+			{	"ad":"Domates", 	"fyt": 0, "varmi": false },
+			{	"ad":"Soğan", 		"fyt": 0, "varmi": false },
+			{	"ad":"Chips", 		"fyt": 0, "varmi": true },
+			{	"ad":"Marul", 		"fyt": 0, "varmi": false },
+			{	"ad":"Turşu", 		"fyt": 0, "varmi": true },
+			{	"ad":"Salatalık",	"fyt": 0, "varmi": false }
+		],
+		"sec":	[
+			{	"idx": 1,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Gobit", "1"]
+			},
+			{	"idx": 2,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Lavaş", "1"]
+			},
+			{	"idx": 3,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Çeyrek"]
+			},
+			{	"idx": 4,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Yarım"]
+			},
+			{	"idx": 5,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Üç Çeyrek"]
+			},
+			{	"idx": 6,
+				"varmi": true,
+				"fyt": 4.5,
+				"cst": ["Ekmek arası", "Tüm"]
+			}
+		]
+	},
+	{	"_id":	"mgl_bdr_gmb_lztDnr_kola",
+		"ad":		"Kola",
+		"tur": "Meşrubat",
+		"img":	"mgl_bdr_gmb_lztDnr_kola",
+		"txt":	"",
+		"varmi": true,
+		"icn": [],
+		"sec":	[
+			{	"idx": 1,
+				"varmi": true,
+				"fyt": 1.5,
+				"cst": ["CocaCola", "Kutu", "", "330ml"]
+			},
+			{	"idx": 2,
+				"varmi": true,
+				"fyt": 1.5,
+				"cst": ["CocaCola", "Kutu", "Diyet", "330ml"]
+			},
+			{	"idx": 3,
+				"varmi": false,
+				"fyt": 1.5,
+				"cst": ["CocaCola", "Kutu", "Zero", "330ml"]
+			},
+			{	"idx": 4,
+				"varmi": false,
+				"fyt": 1.5,
+				"cst": ["CocaCola", "CamŞişe", "", "250ml"]
+			},
+			{	"idx": 5,
+				"varmi": true,
+				"fyt": 2.5,
+				"cst": ["CocaCola", "PetŞişe", "", "1L"]
+			},
+			{	"idx": 6,
+				"varmi": true,
+				"fyt": 3.5,
+				"cst": ["CocaCola", "PetŞişe", "", "2L"]
+			}
+		]
+	}
+]
